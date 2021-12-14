@@ -10,6 +10,10 @@ I am currently learning best CSS practices and writing more efficient Javacript.
 
 😄 When I am not coding I am reading books, watching a show or trying a new cuisine.
 
+### Projects
+- Etch-a-Sketch: is a project made using vanillaJS and CSS Flexbox | [hosted site](https://js-drawing-board-canvas.netlify.app/)
+- Face Detection: made using vanillaJS | [hosted site](https://detectyourface.netlify.app)
+
 ### Recent Blogs
 - How much can I flex with Flexbox? | [Read Blog](https://hashnode.com/post/how-much-can-i-flex-with-flexbox-cknxjntqt09j9ews1412c93qo)
 - Anatomy of a URL | [Read Blog](https://hashnode.com/post/anatomy-of-a-url-cktjju1c102cqmls14f50awi0)
