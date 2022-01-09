@@ -11,7 +11,7 @@ I am currently learning best CSS practices and writing more efficient Javacript.
 😄 When I am not coding I am reading books, watching a show or trying a new cuisine.
 
 ### Projects
-- Etch-a-Sketch: is a project made using vanillaJS and CSS Flexbox | [hosted site](https://js-drawing-board-canvas.netlify.app/)
+- Sticky: a note taking app  | [hosted site](https://github.com/srivcodes/notes)
 - Face Detection: made using vanillaJS | [hosted site](https://detectyourface.netlify.app)
 
 ### Recent Blogs
