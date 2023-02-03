@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am Srividya M Venkatesh, I am learning Frontend Developement. I focus on writing semantic HTML, using modern CSS and Javascript.
+I am Srividya M Venkatesh, I am learning Frontend Developement. I focus on writing semantic HTML, using modern CSS, React and Javascript.
 
 - 🔭 I’m currently working on ...
 I am currently practising JavaScript, React and other major technologies in the React Ecosystem, by building projects with every new technology that I learn. I also write pointers and notes about what I learn here.
