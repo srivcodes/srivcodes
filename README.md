@@ -15,11 +15,11 @@ I am currently learning best CSS practices and writing more efficient Javacript.
 - Face Detection: made using vanillaJS | [hosted site](https://detectyourface.netlify.app)
 
 ### Recent Blogs
-- How much can I flex with Flexbox? | [Read Blog](https://hashnode.com/post/how-much-can-i-flex-with-flexbox-cknxjntqt09j9ews1412c93qo)
-- Anatomy of a URL | [Read Blog](https://hashnode.com/post/anatomy-of-a-url-cktjju1c102cqmls14f50awi0)
-- Lifecycle Methods in React |[Read Blog](https://hashnode.com/post/lifecycle-methods-in-react-ckt0emthj08bl54s1cyww1ic7)
+- How much can I flex with Flexbox? | [Read Blog]([https://hashnode.com/post/how-much-can-i-flex-with-flexbox-cknxjntqt09j9ews1412c93qo](https://sriviatwork.vercel.app/posts/flexbox))
+- Anatomy of a URL | [Read Blog]([https://hashnode.com/post/anatomy-of-a-url-cktjju1c102cqmls14f50awi0](https://sriviatwork.vercel.app/posts/anatomy-url))
+- Lifecycle Methods in React |[Read Blog]([https://hashnode.com/post/lifecycle-methods-in-react-ckt0emthj08bl54s1cyww1ic7](https://sriviatwork.vercel.app/posts/react-lifecycle))
 
-Find more blogs on my [blog site](https://sounds-interesting.netlify.app/#)
+Find more blogs on my [blog site](https://sriviatwork.vercel.app/)
 
 ### Connect with me via
 - Twitter   | [@MysoreSrividya](https://twitter.com/MysoreSrividya)
